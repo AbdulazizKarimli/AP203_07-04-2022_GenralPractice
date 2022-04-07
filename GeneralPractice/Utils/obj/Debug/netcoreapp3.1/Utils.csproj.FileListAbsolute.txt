@@ -1,0 +1,10 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\AP203_07-04-2022_GenralPractice\GeneralPractice\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
